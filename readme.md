@@ -82,14 +82,14 @@ Para começar, você vai precisar instalar em sua máquina as seguintes ferramen
 
 ```bash
 # Baixe o editor equivalente para a sua plataforma
-$ <https://code.visualstudio.com/>
+$ https://code.visualstudio.com/
 
 # Vá para a pasta de downloads e execute o arquivo
 
 # Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
 # Clone este repositório com o seguinte comando abaixo
-$ git clone <https://github.com/dimasdevspro/Launchstore>
+$ git clone https://github.com/dimasdevspro/Launchstore
 
 # Ainda no terminal, acesse a pasta com mais um comando
 $ cd Launchstore
